@@ -1,7 +1,7 @@
 
 ## Exam code for CleanChoice
 
-- Originally written on Windows 10
+- Originally built on Windows 10
 
 - Used MySQL as SQL client
 
